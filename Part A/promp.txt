@@ -1,0 +1,5 @@
+Provide a description of the video. The description should also contain anything important which people say in the video.
+
+Use this summary to generate a medium article on the topic.
+
+Also create a latex slideshow of the content summary in presentable fashion.
