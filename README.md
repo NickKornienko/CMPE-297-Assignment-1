@@ -11,8 +11,8 @@ b) Claude Dev
 - Video link: https://youtu.be/jGemNQeT9B0
 
 c) Multimodal capabilities of gemini , claude and gpt4o - - video audio and images and text - demonstrate with colab ten advanced features of ten domains like coding, videos, images, etc.,. (check the colabs i shared in the class as well as watch videos)
-- Jupyter notebook: multimodal_comparisons.ipynb
-- Video link:
+- Code: Part C folder
+- Video link: https://youtu.be/w5WiA6OIDaQ
 
 d) showcase 10 very novel usecases of long context of gemini by actually demoing and writign medium article (With help of gemini) of these.
 - Jupyter notebook:
