@@ -3,8 +3,8 @@ Experimenting with foundation models
 
 a) Long video summarization and medium article writing with gemini largest experimental model
 - Slidshow and prompt: Part A folder
-- Video link:
-- Medium article:
+- Video link: https://youtu.be/VmZ5-EMWulY
+- Medium article: https://medium.com/@nick.kornienko/the-next-wave-ai-as-a-new-digital-species-940b4db73e88
 
 b) Claude Dev
 - Code: Part B folder
